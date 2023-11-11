@@ -1,6 +1,6 @@
 # Mini Project 11. PySpark Data Processing
 
-For this project I used Azure Databricks to load and analyse data from one of Databricks preloaded datasets: Songs. I created the Ingest, Prepare and Analyze notebookes to organize and set the workflow. The magic* feature was used within the notebooks to not change the preset language. 
+For this project I used Azure Databricks to load and analyse data from one of Databricks preloaded datasets: Songs. I created the Ingest, Prepare and Analyze notebooks to organize and set the workflow. The magic* feature was used within the notebooks to not change the preset language. 
 
 ### Workspace
 <img width="959" alt="Screenshot 2023-11-10 at 4 50 55 PM" src="https://github.com/dani-jimlar/djl_mini_project_11/assets/143829673/6cce5bde-fba4-4ec4-a083-103bf69880f8">
