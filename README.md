@@ -1,5 +1,5 @@
 [![CI](https://github.com/dani-jimlar/djl_mini_project_11/actions/workflows/cicd.yml/badge.svg)](https://github.com/dani-jimlar/djl_mini_project_11/actions/workflows/cicd.yml)
-# Mini Project 11. PySpark Data Processing
+# Mini Project 11. Data Pipeline with Databricks
 
 For this project I used Azure Databricks to load and analyse data from one of Databricks preloaded datasets: Songs. I created the Ingest, Prepare and Analyze notebooks to organize and set the workflow. The magic* feature was used within the notebooks to not change the preset language. 
 
